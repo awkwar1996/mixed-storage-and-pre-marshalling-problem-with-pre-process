@@ -1,1 +1,6 @@
-求解带预处理时间的钢板入库和预翻板问题
+1. Introduction
+This is the source code for paper "An ant colony optimization method for the mixed storage and pre-marshalling problem considering pre-processing". 
+
+2. Structure of the codes
+
+
